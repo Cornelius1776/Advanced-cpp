@@ -1,0 +1,1 @@
+This is a new project where I want to explore more advanced C++ features and improve my skills. With a special focus on areas of concurrency, stl, modern C++ memory management and best practices(post C++17). Basically understand the features and tools I need to write safe C++ program while also having the advantage of the raw language incredible performance  
