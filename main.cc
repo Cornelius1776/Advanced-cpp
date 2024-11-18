@@ -15,6 +15,7 @@ void test(const int a, const int b, std::unordered_map<int, int> &cache)
 }
 
 int main() {
+    std::unordered_map<int, int> cache;
     test(2, 2, cache);
     test(2, 2, cache);
     test(3, 1, cache);
